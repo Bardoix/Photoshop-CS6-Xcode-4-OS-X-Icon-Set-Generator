@@ -1,0 +1,1 @@
+Photoshop CS6 script (.jsx) to automate exporting master icons into the 10 standard PNG sizes (including @2x Retina) required for OS X app development. Open your high-res artwork, run the script, and instantly generate all named assets with high-quality bicubic resampling. 
